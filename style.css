@@ -1,0 +1,58 @@
+body { 
+    margin: 0 auto;
+    width: 850px;
+} 
+main {
+    height: 450px;
+    margin: 0 auto;
+    background-image:url(space.jpg); 
+    color: white; 
+}
+
+section {
+    height: 324px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: rgb(224, 222, 222) ;
+     
+}
+article {
+    width: 270px;
+    height: 324px;
+    background-color: rgb(224, 222, 222) ;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+h1 {
+    font-size: 100px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 165px;
+    padding-left: 280px ;
+}
+h2 {
+    text-align: left;
+    font-size: 25px;
+    margin-left: 19px;
+}
+
+p {
+    font-size: 20px;
+    display: flex;
+    margin-left: 20px;
+    font-size:17px;
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 7px;
+}
+input {
+    margin-top: 20px;
+    padding-right: 20px;
+
+}
+
+form {
+    font-size: 18px;
+}
